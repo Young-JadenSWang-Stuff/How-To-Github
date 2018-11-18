@@ -49,4 +49,4 @@ Have you made and finalized an awesome change?
 * select new pull request
 * submit a pull request with a description of what you changed
 
-![Alt Text](https://media.giphy.com/media/3d4Ib9vKxMmjhJh7Q5/giphy.gif))
+![Alt Text](https://media.giphy.com/media/1d5O0mPabhW8tvQbrR/giphy.gif))
